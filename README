@@ -1,3 +1,7 @@
+#Dmenu
+This is a slightly modified version of Suckless' Dmenu program.
+For original code, go to suckless.org.
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
